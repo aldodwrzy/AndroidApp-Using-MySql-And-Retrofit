@@ -30,6 +30,8 @@ You're sections headers will be used to reference location of destination.
 ## Technologies
 
 - Android Studio
+- Visual Studio Code
+- Xampp
 - Java 17.1
 - jdk 17
 
