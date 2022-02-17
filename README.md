@@ -26,7 +26,8 @@ You're sections headers will be used to reference location of destination.
 - Read Activity
 - Add Activity
 
-### Technologies
+
+## Technologies
 
 - Android Studio
 - Java 17.1
