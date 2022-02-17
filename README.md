@@ -14,9 +14,8 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-- Can Crud 1 table
 - Can add user
-- Can add user
+- Can edit user
 - Can delete user
 - Using library Retrofit
 
