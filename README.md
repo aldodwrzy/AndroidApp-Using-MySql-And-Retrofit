@@ -21,7 +21,8 @@ Android application created using the Java programming language and connected to
 
 - Read Activity
 - Add Activity
-
+- Edit Activity
+- Delete Activity
 
 ## Technologies
 
