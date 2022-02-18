@@ -14,10 +14,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-- Can add user
-- Can edit user
-- Can delete user
-- Using library Retrofit
+Android application created using the Java programming language and connected to PHP - MySql using the Retrofit library
 
 
 ## Activity
